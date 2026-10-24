@@ -1,0 +1,4 @@
+name: DemoComposite
+version: '${version}'
+main: demo.composite.DemoComposite
+api-version: '1.21'
